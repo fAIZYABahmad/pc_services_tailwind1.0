@@ -1,0 +1,49 @@
+<div class="hidden w-full md:block md:w-auto" id="navbar-default">
+                <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+                  <li>
+                    <a href="#" class="block py-2 pl-3 pr-4 text-yellow-500 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Home</a>
+                  </li>
+                  <li>
+                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About</a>
+                  </li>
+                  <li>
+                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
+                  </li>
+                  <li>
+                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Pricing</a>
+                  </li>
+                  <li>
+                    <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
+                  </li>
+                </ul>
+              </div>
+
+
+
+
+
+              <div class="flex flex-wrap place-items-center ">
+                <section class="relative mx-auto">
+                    <!-- navbar -->
+                  <nav class="flex justify-between bg-[#404258] text-[#8d9a9b] w-screen">
+                    <div class="px-2 xl:px-12 py-3 flex w-full items-center">
+                      <a class="text-3xl font-bold font-heading" href="#">
+                        <img src="images/icons8-workstation-48.png" alt="">
+                       
+                      </a>
+                      <!-- Nav Links -->
+                      <ul class="hidden md:flex  font-semibold font-heading space-x-12">
+                        <li><a class="hover:text-gray-200" href="#">Home</a></li>
+                        <li><a class="hover:text-gray-200" href="#">Catagory</a></li>
+                        <li><a class="hover:text-gray-200" href="#">Collections</a></li>
+                      </ul>
+                  
+                    <a class="navbar-burger self-center mr-12  xl:hidden text-right justify-end" href="#">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hover:text-gray-200 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </a>
+                  </nav>
+                  
+                </section>
+              </div>
